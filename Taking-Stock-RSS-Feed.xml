@@ -22,15 +22,17 @@
     <link>https://www.whydrs.org/</link>
     <managingEditor>hi@whydrs.org (WhyDRS)</managingEditor>
     <webMaster>hi@whydrs.org (WhyDRS)</webMaster>
+    <itunes:category>Education</itunes:category>
+    <itunes:explicit>false</itunes:explicit>
 
     <item>
       <title>Taking Stock Episode 3 - Talking With Peruvian Bull</title>
       <pubDate>Wed, 9 Aug 2023 21:00:00 GMT</pubDate>
-      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e494d72cef474add836b64c9eebcb840.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e494d72cef474add836b64c9eebcb840.mp3" type="audio/mpeg" length="1900000" />
       <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_e494d72cef474add836b64c9eebcb840.mp3</guid>
       <itunes:duration>1:19:30</itunes:duration>
-      <author>WhyDRS.org</author>
-      <category>Education</category>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <itunes:category>Education</itunes:category>
       <description><![CDATA[This weeks Taking Stock was really incredible. I’d highly recommend checking out the conversation with our hugely knowledgeable guest Peruvian Bull, which ranged from the beginnings of the DRS online movement to the birds eye and macro view on these wild economic time. Peruvian Bull has strong skill in breaking down complex concepts and providing key context to help understand each example, and we’ll look forward to speaking with him again in the future. There’s a ton of information packed into this show, and I can’t do it justice here. Check it out!
 
 The DRS team shared major updates to the WhyDRS.org advocacy resources in the Shareholder Proposal Guide and the WhyDRS database,
@@ -61,11 +63,11 @@ Website: https://thedollarendgame.com/]]></description>
     <item>
       <title>Taking Stock Episode 2 - Talking with Kevin Malone</title>
       <pubDate>Wed, 2 Aug 2023 21:00:00 GMT</pubDate>
-      <enclosure url="https://static.wixstatic.com/mp3/06e09f_dbaabf09986243e1ad8e65932c4e5ac4.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_dbaabf09986243e1ad8e65932c4e5ac4.mp3" type="audio/mpeg" length="3300000" />
       <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_dbaabf09986243e1ad8e65932c4e5ac4.mp3</guid>
       <itunes:duration>1:30:13</itunes:duration>
-      <author>WhyDRS.org</author>
-      <category>Education</category>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <itunes:category>Education</itunes:category>
       <description><![CDATA[This week on Taking Stock, we started off with a recap of some recent project and website updates from the DRS team including the WhyDRS Database and the GiveAshare spotlight page. After that, we welcomed Kevin Malone, CEO of Malone Wealth Ventures, a registered investment adviser. In the wake of Apex and Mainstar, Kevin has been investigating an alternative to potentially help clients direct register their shares without exposure to shaky custodians. Kevin talks about his experience so far with SEI, who may offer a service for registered investment advisers to maintain client assets in a segregated account and in their own names. The episode is closed with a group discussion about recent SEC and FINRA bulletins which introduce new and more explicit language about direct registration and about the distinction between plan designated holdings and book designated holdings. Which conclusions we can try to draw from them?
 
 Itinerary:
@@ -98,11 +100,11 @@ https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares
     <item>
       <title>Taking Stock Episode 1 - Viewing a stockholder list</title>
       <pubDate>Wed, 26 Jul 2023 21:00:00 GMT</pubDate>
-      <enclosure url="https://static.wixstatic.com/mp3/06e09f_c2197c666b534274ae60e556f6a1321c.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_c2197c666b534274ae60e556f6a1321c.mp3" type="audio/mpeg" length="3300000" />
       <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_c2197c666b534274ae60e556f6a1321c.mp3</guid>
       <itunes:duration>57:21</itunes:duration>
-      <author>WhyDRS.org</author>
-      <category>Education</category>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <itunes:category>Education</itunes:category>
       <description><![CDATA[The first Taking Stock - covering the stockholder list and welcoming some great investors and DRS advocates.
 
 Recorded as a Twitter Space on 26th July 2023.]]></description>
