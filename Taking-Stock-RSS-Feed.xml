@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="https://www.whydrs.org/">
+<rss version="2.0"
+  xmlns:atom="https://www.whydrs.org">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <atom:link href="https://taking-stock.github.io/RSSfeed/Taking%20Stock%20Feed.xml" rel="self" type="application/rss+xml" />
     <title>Taking Stock</title>
     <link>https://www.whydrs.org/</link>
     <description>A podcast about self custody in finance</description>
@@ -97,5 +97,6 @@ https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares
 
 Recorded as a Twitter Space on 26th July 2023.]]></description>
     </item>
+  <atom:link href="https://taking-stock.github.io/RSSfeed/Taking-Stock-RSS-Feed.xml" rel="self" type="application/rss+xml"/>
   </channel>
 </rss>
