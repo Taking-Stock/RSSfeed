@@ -9,9 +9,9 @@
       <itunes:email>hi@whydrs.org</itunes:email>
     </itunes:owner>
     <itunes:author>WhyDRS.org</itunes:author>
-    <description>A podcast about self custody in finance</description>
-    <atom:link href="https://taking-stock.github.io/RSSfeed/Taking-Stock-RSS-Feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:image href="https://podcasts.apple.com/us/podcast/taking-stock/id1706847920"/>
+    <description>A podcast about self custody in finance.</description>
+    <atom:link href="https://taking-stock.github.io/RSSfeed/Taking-Stock-RSS-Feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://podcasts.apple.com/us/podcast/taking-stock/id1706847920" />
     <image>
       <title>Taking Stock</title>
       <link>https://www.whydrs.org/</link>
