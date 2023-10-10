@@ -11,11 +11,11 @@
     <itunes:author>WhyDRS.org</itunes:author>
     <description>A podcast about self custody in finance.</description>
     <atom:link href="https://taking-stock.github.io/RSSfeed/Taking-Stock-RSS-Feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:image href="https://static.wixstatic.com/media/06e09f_a5d5e382960442e3a8865245f86f7fae~mv2.jpg" />
+    <itunes:image href="https://static.wixstatic.com/media/06e09f_f9c235c1cda84a4ea6194d758ee0cff0~mv2.png" />
     <image>
       <title>Taking Stock</title>
       <link>https://www.whydrs.org/</link>
-      <url>https://static.wixstatic.com/media/06e09f_a5d5e382960442e3a8865245f86f7fae~mv2.jpg</url>
+      <url>https://static.wixstatic.com/media/06e09f_1342b0e64daf4a51ab5e0704aebd3374~mv2.png</url>
       <width>144</width>
       <height>144</height>
     </image>
